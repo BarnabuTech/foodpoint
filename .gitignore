@@ -1,3 +1,8 @@
+# The project's root directory node modules and dist directories are ignored by default. If you have a monorepo, you may want to ignore the node_modules and dist directories in the frontend and backend subdirectories as well.
+
+frontend/node_modules
+backend/node_modules
+
 # Logs
 logs
 *.log
@@ -25,4 +30,5 @@ dist-ssr
 
 # Env variables
 .env
+backend/.env
 frontend/.env
