@@ -32,3 +32,5 @@ dist-ssr
 .env
 backend/.env
 frontend/.env
+backend/.env
+backend/Safaricom APIs.postman_collection.json
